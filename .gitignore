@@ -1,3 +1,16 @@
+
 .env
 state.json
+bot.log
+*.log
+*.save
 __pycache__/
+*.pyc
+ai_weights.json
+positions_cache.json
+sections_state.json
+radar_v5.py
+radar_v6.py
+radar_v6_backup.py
+bot.py
+bot.py.save
