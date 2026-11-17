@@ -1,0 +1,7 @@
+{
+  "system": true,
+  "info": true,
+  "trading": true,
+  "market": true,
+  "ai": true
+}

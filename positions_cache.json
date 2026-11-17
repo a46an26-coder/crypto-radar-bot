@@ -1,0 +1,37 @@
+{
+  "CAP/USDT": {
+    "buy_price": 0.11692,
+    "trailing_high": 0.11692,
+    "partial_levels": [],
+    "remaining_qty": null,
+    "buy_time": 1794320672.0973492
+  },
+  "LIT/USDT": {
+    "buy_price": 3.2942,
+    "trailing_high": 3.2942,
+    "partial_levels": [],
+    "remaining_qty": null,
+    "buy_time": 1794320990.631294
+  },
+  "MEGA/USDT": {
+    "buy_price": 0.05166,
+    "trailing_high": 0.05166,
+    "partial_levels": [],
+    "remaining_qty": null,
+    "buy_time": 1794321078.811819
+  },
+  "NEAR/USDT": {
+    "buy_price": 3.69,
+    "trailing_high": 3.69,
+    "partial_levels": [],
+    "remaining_qty": null,
+    "buy_time": 1794321435.7643678
+  },
+  "DATA/USDT": {
+    "buy_price": 0.0985,
+    "trailing_high": 0.0985,
+    "partial_levels": [],
+    "remaining_qty": null,
+    "buy_time": 1794321471.785834
+  }
+}
